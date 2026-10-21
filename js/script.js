@@ -17,10 +17,10 @@
      CONFIGURATION — replace the placeholders with your real information
      ------------------------------------------------------------------------ */
   var SITE_CONFIG = {
-    name: '[YOUR NAME]',
-    email: '[YOUR EMAIL]',
-    linkedin: '[YOUR LINKEDIN URL]',   // e.g. 'https://www.linkedin.com/in/your-profile'
-    github: '[YOUR GITHUB URL]'        // e.g. 'https://github.com/your-username'
+    name: 'Habiburrahman Ahmad Fauzan',
+    email: 'habiburrahmanfauzan@gmail.com',
+    linkedin: 'https://bit.ly/4sffvFT',   // e.g. 'https://www.linkedin.com/in/your-profile'
+    github: 'https://github.com/habiburrahman333'        // e.g. 'https://github.com/your-username'
   };
 
   /* ------------------------------------------------------------------------
