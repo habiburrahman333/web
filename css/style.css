@@ -1130,3 +1130,15 @@ h3 { line-height: 1.25; letter-spacing: -0.01em; }
   .btn:active { transform: none; }
   .shape { will-change: auto; }
 }
+
+.logo-text {
+  font-size: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 55vw;
+}
+
+@media (min-width: 960px) {
+  .logo-text { max-width: none; font-size: 1.15rem; }
+}
